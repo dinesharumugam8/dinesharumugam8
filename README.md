@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**dinesharumugam8/dinesharumugam8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/Hi.gif" width="40" height="40"> This is Dinesh Arumugam
+##### I am enthusiastic developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.facebook.com/lokesh.messi.927/" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/facebook.svg" width="128" height="128">
+</a>
+
+<a href="https://github.com/Logeshvarman" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/github.svg" width="128" height="128">
+</a>
+
+
+<a href="https://www.instagram.com/logesh_varman" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/instagram.svg" width="128" height="128">
+</a>
+
+<a href="https://www.linkedin.com/in/logesh-varman-7699021b1/" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/linkedin.svg" width="128" height="128">
+</a>
+
+<a href="https://twitter.com/logesh_varman" target="_blank" style="text-decoration: none">
+  <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/twitter.svg" width="128" height="128">
+</a>
