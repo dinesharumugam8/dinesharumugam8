@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/facebook.svg" width="128" height="128">
 </a>
 
-<a href="https://github.com/Logeshvarman" target="_blank" style="text-decoration: none">
+<a href="https://github.com/dinesharumugam8" target="_blank" style="text-decoration: none">
   <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/github.svg" width="128" height="128">
 </a>
 
